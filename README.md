@@ -7,6 +7,7 @@ This challenge can be found on Maven Analytics.
 Table of Content.
 
 - Dashboard View
+- <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg">Dashboard View</a>
 - Dataset
 - Questions
 - Solutions
