@@ -4,9 +4,8 @@ This dataset represents one year of sales data from a fictional pizza restaurant
 This challenge can be found on Maven Analytics.
 -	<a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza">Maven Analytics</a>
 
-Table of Content.
+# Dataset.
 
-- <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg">Dashboard View</a>
 - <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza">Dataset</a>
 # Dashboard View
   ![image](https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg)
