@@ -8,5 +8,5 @@ Table of Content.
 
 - <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg">Dashboard View</a>
 - <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza">Dataset</a>
-- <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/issues/2#issue-2776023626">Questions</a>
+- Questions
 - Solutions
