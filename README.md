@@ -10,7 +10,7 @@ Table of Content.
 - <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report.pbix ">Click to Download pbix file </a>
 - <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza">Dataset</a>
 # Dashboard View
-- <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg">Dashboard View</a>
+  ![image](https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg)
 # Questions
 1. How many customers do we have each day?
 2. Are there any peak hours?
