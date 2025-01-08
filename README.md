@@ -12,7 +12,7 @@ Table of Content.
 # Dashboard View
   ![image](https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg)
    <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report.pbix ">Click to Download pbix file </a>
-   <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report.pbix">Click to Download pbix file </a>
+
 # Questions
 1. How many customers do we have each day?
 2. Are there any peak hours?
