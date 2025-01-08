@@ -22,8 +22,8 @@ Table of Content.
     
 # Solutions
 1. The average number of customers was 59.
+   
    ![image](https://github.com/user-attachments/assets/632adeb3-a202-45ac-9cba-f3030064422d)
-
 3. The best hours are 12 noon to 3 PM.
 4. The worst hours are 9AM to 11AM and after 10 PM
 5. The best day was 26-11-2015
