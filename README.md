@@ -9,7 +9,7 @@ Table of Content.
 - <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg">Dashboard View</a>
 - <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza">Dataset</a>
 - Questions
-- 1. How many customers do we have each day?
+1. How many customers do we have each day?
 2. Are there any peak hours?
 3. Are there any off hours?
 4. Are there any peak Days?
